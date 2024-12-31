@@ -1,2 +1,5 @@
 .env
 bot_account.json
+Backtest.ipynb
+Forecasting.ipynb
+TradeBot.py
